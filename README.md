@@ -11,7 +11,7 @@ or
 
 ## Usage
 
-	monster.set(name, value, days, path) //days and path are optional
+	monster.set(name, value, days, path, domain) //days, path and domain are optional
 	monster.get(name)
 	monster.remove(name)
 
